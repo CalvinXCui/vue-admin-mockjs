@@ -44,9 +44,9 @@
 	import {getMenuList} from '../api/api'
 	export default {
 		data() {
-			let arrimage=["../static/images/head1.png",
-						  "../static/images/head2.png",
-						  "../static/images/head3.png"
+			let arrimage=["../../static/images/head1.png",
+						  "../../static/images/head2.png",
+						  "../../static/images/head3.png"
 						  ]
 			return {
 				sysName:'VUEADMIN',
