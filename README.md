@@ -1,8 +1,8 @@
-**demo**: [https://taylorchen709.github.io/vue-admin/](https://taylorchen709.github.io/vue-admin/)
+**demo**: 
 
 # To start
 
-This is a project template for [vue-cli](https://github.com/vuejs/vue-cli)
+This is a project template for [vue-cli]
 
 ``` bash
 # install dependencies
